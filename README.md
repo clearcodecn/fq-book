@@ -1,6 +1,6 @@
 # Visit
 
-<center>[https://clearcodecn.github.io/fq-book/](https://clearcodecn.github.io/fq-book/)</center>
+[https://clearcodecn.github.io/fq-book/](https://clearcodecn.github.io/fq-book/)
 
 # 《这本书能让你连接互联网 Ⅱ》
 
